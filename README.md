@@ -1,0 +1,1 @@
+# richmessagebot-automated-tests
